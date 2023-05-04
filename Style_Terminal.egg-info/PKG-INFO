@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Style-Terminal
+Version: 0.0.1
+Summary: A library that deals with the device, device style, adding commands, and dealing with colors
+Author: Omar-Moahmed
+Classifier: Progtamming Language :: Python :: 3
+Classifier: Operating System :: MacOS::MacOS X
+Classifier: License :: OSI Approved :: MIT License
+License-File: LICENSE.txt

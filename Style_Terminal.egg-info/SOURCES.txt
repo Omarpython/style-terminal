@@ -1,0 +1,7 @@
+LICENSE.txt
+setup.py
+Style_Terminal.egg-info/PKG-INFO
+Style_Terminal.egg-info/SOURCES.txt
+Style_Terminal.egg-info/dependency_links.txt
+Style_Terminal.egg-info/top_level.txt
+code/__init__.py
